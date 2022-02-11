@@ -12,6 +12,10 @@ Working Virtual Class NPC
   `|| apt install -f -y`  
    
 `CMD zoom`
+
+# Build Dockerfile
+
+> docker build .
  
 # HOST - [ubuntu, debian ... ]
  
